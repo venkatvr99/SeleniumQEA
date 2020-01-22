@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21877" started-at="2020-01-21T16:35:30 IST" finished-at="2020-01-21T16:35:52 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21877" started-at="2020-01-21T16:35:30 IST" finished-at="2020-01-21T16:35:52 IST">
+      <class name="tests.ExtentReport">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.ExtentReport@1f7030a6]" name="beforeTest" is-config="true" duration-ms="9149" started-at="2020-01-21T16:35:30 IST" finished-at="2020-01-21T16:35:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(org.testng.ITestResult)[pri:0, instance:tests.ExtentReport@1f7030a6]" name="beforeMethod" is-config="true" duration-ms="7" started-at="2020-01-21T16:35:39 IST" finished-at="2020-01-21T16:35:39 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=ExtentReport.test()[pri:0, instance:tests.ExtentReport@1f7030a6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:tests.ExtentReport@1f7030a6]" name="test" duration-ms="10936" started-at="2020-01-21T16:35:39 IST" finished-at="2020-01-21T16:35:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:tests.ExtentReport@1f7030a6]" name="afterMethod" is-config="true" duration-ms="481" started-at="2020-01-21T16:35:50 IST" finished-at="2020-01-21T16:35:50 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=test status=SUCCESS method=ExtentReport.test()[pri:0, instance:tests.ExtentReport@1f7030a6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.ExtentReport@1f7030a6]" name="afterTest" is-config="true" duration-ms="1245" started-at="2020-01-21T16:35:50 IST" finished-at="2020-01-21T16:35:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- tests.ExtentReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
